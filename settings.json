@@ -22,12 +22,6 @@
   "files.associations": {
     "*.snap": "javascriptreact"
   },
-  // Exclusions from the explorer
-  "files.exclude": {
-    "**/.git": true,
-    "**/.DS_Store": true,
-    "**/node_modules": true
-  },
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.semi": false,
